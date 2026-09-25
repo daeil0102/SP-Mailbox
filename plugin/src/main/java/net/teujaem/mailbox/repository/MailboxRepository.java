@@ -1,6 +1,6 @@
-package com.server.mailbox.repository;
+package net.teujaem.mailbox.repository;
 
-import com.server.mailbox.entity.MailboxItem;
+import net.teujaem.mailbox.entity.MailboxItem;
 import net.teujaem.jpalib.jpa.JpaManager;
 
 import java.util.List;

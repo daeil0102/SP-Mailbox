@@ -1,4 +1,4 @@
-package com.server.mailbox.gui;
+package net.teujaem.mailbox.gui;
 
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;

@@ -1,11 +1,11 @@
-package com.server.mailbox.command;
+package net.teujaem.mailbox.command;
 
-import com.server.mailbox.SPMailbox;
-import com.server.mailbox.entity.MailboxItem;
-import com.server.mailbox.gui.MailboxGui;
-import com.server.mailbox.proxy.MailboxProxyService;
-import com.server.mailbox.repository.MailboxRepository;
-import com.server.mailbox.util.ItemSerialization;
+import net.teujaem.mailbox.SPMailbox;
+import net.teujaem.mailbox.entity.MailboxItem;
+import net.teujaem.mailbox.gui.MailboxGui;
+import net.teujaem.mailbox.proxy.MailboxProxyService;
+import net.teujaem.mailbox.repository.MailboxRepository;
+import net.teujaem.mailbox.util.ItemSerialization;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

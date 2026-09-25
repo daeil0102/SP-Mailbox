@@ -1,4 +1,4 @@
-package com.server.mailbox.util;
+package net.teujaem.mailbox.util;
 
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.util.io.BukkitObjectInputStream;

@@ -1,9 +1,9 @@
-package com.server.mailbox.listener;
+package net.teujaem.mailbox.listener;
 
-import com.server.mailbox.SPMailbox;
-import com.server.mailbox.gui.MailboxGui;
-import com.server.mailbox.gui.MailboxHolder;
-import com.server.mailbox.repository.MailboxRepository;
+import net.teujaem.mailbox.SPMailbox;
+import net.teujaem.mailbox.gui.MailboxGui;
+import net.teujaem.mailbox.gui.MailboxHolder;
+import net.teujaem.mailbox.repository.MailboxRepository;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Sound;

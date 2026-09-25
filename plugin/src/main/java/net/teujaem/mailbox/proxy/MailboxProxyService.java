@@ -1,6 +1,6 @@
-package com.server.mailbox.proxy;
+package net.teujaem.mailbox.proxy;
 
-import com.server.mailbox.SPMailbox;
+import net.teujaem.mailbox.SPMailbox;
 import net.teujaem.spFramework.SPFramework;
 import net.teujaem.spFramework.api.ProxyData;
 

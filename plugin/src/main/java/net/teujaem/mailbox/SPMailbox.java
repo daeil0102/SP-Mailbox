@@ -1,10 +1,10 @@
-package com.server.mailbox;
+package net.teujaem.mailbox;
 
-import com.server.mailbox.command.MailboxCommand;
-import com.server.mailbox.entity.MailboxItem;
-import com.server.mailbox.listener.MailboxGuiListener;
-import com.server.mailbox.listener.MailboxProxyListener;
-import com.server.mailbox.repository.MailboxRepository;
+import net.teujaem.mailbox.command.MailboxCommand;
+import net.teujaem.mailbox.entity.MailboxItem;
+import net.teujaem.mailbox.listener.MailboxGuiListener;
+import net.teujaem.mailbox.listener.MailboxProxyListener;
+import net.teujaem.mailbox.repository.MailboxRepository;
 import net.teujaem.jpalib.jpa.JpaManager;
 import net.teujaem.spFramework.SPFramework;
 import org.bukkit.plugin.java.JavaPlugin;

@@ -1,4 +1,4 @@
-package com.server.mailbox.entity;
+package net.teujaem.mailbox.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

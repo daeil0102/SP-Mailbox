@@ -1,7 +1,7 @@
-package com.server.mailbox.listener;
+package net.teujaem.mailbox.listener;
 
-import com.server.mailbox.SPMailbox;
-import com.server.mailbox.proxy.MailboxProxyService;
+import net.teujaem.mailbox.SPMailbox;
+import net.teujaem.mailbox.proxy.MailboxProxyService;
 import net.teujaem.spFramework.api.event.ProxyEvent;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
