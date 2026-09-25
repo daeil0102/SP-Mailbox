@@ -1,0 +1,13 @@
+name: SP-Mailbox
+version: '1.0.0'
+main: com.server.mailbox.SPMailbox
+api-version: '1.21'
+author: YourName
+description: SP-Framework의 DB/프록시 기능을 사용하는 서버 간 공유 우편함 플러그인
+depend: [SP-Framework]
+
+commands:
+  우편함:
+    aliases: [선물함, mailbox, gift, dnvusgka, tjsanfgka]
+    description: 우편함을 열거나 관리합니다.
+    usage: /우편함 [추가|아이템빼기|초기화] [플레이어|all]
